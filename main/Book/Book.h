@@ -15,6 +15,7 @@ public:
 
 private:
     int numberofNote;
+    std::string creator
     std::string name;
     size_t size;
     std::vector<Notes> book
