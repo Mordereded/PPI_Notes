@@ -1,3 +1,3 @@
-Note note = new Note("New_One");
+Note note = new Note("NewOne");
     note.add();
     return 0
