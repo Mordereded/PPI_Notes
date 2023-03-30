@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Note note = new Note("New_One");
+=======
+Note note = new Note("New____One");
+>>>>>>> check
+    note.add();
+    return 0
