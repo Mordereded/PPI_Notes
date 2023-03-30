@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.6" xml:lang="en-US">
+  <compounddef id="_specification_8md" kind="file" language="Markdown">
+    <compoundname>Specification.md</compoundname>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <programlisting>
+<codeline><highlight class="normal">#<sp/>Назначение</highlight></codeline>
+<codeline><highlight class="normal">Заметки,<sp/>с<sp/>возможностью<sp/>объединения<sp/>их<sp/>в<sp/>книги,<sp/>экспорт<sp/>в<sp/>pdf<sp/>иназначения<sp/>ярлыков<sp/>для<sp/>быстрого<sp/>поиска<sp/>по<sp/>хранилищу.</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">#<sp/>Основные<sp/>функции<sp/>и<sp/>сущности</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">#<sp/>Заметка</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">1.Добавить<sp/>заметку</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.Удалить<sp/>заметку</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">3.Изменить<sp/>заметку</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">4.Просмотреть<sp/>заметку</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">5.Объединить<sp/>заметки</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">#<sp/>Книга</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">1.Добавить<sp/>книгу</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.Обновить<sp/>книгу</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">3.Изменить<sp/>книгу</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">4.Добавть<sp/>заметку<sp/>в<sp/>книгу</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">5.Удалить<sp/>заметку<sp/>из<sp/>книги</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">6.Просмотреть<sp/>все<sp/>заметки<sp/>в<sp/>книге</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">#<sp/>Поиск</highlight></codeline>
+<codeline></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">1.Найти<sp/>книгу</highlight></codeline>
+<codeline></codeline>
+<codeline><highlight class="normal">2.Найти<sp/>заметку</highlight></codeline>
+    </programlisting>
+    <location file="Specification.md"/>
+  </compounddef>
+</doxygen>

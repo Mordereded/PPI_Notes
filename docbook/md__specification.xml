@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_md__specification" xml:lang="en-US">
+
+<para>Заметки, с возможностью объединения их в книги, экспорт в pdf иназначения ярлыков для быстрого поиска по хранилищу.</para>
+<section xml:id="_md__specification_1autotoc_md2">
+<title>Основные функции и сущности</title>
+</section>
+<section xml:id="_md__specification_1autotoc_md3">
+<title>Заметка</title>
+
+<para>1.Добавить заметку</para>
+
+<para>2.Удалить заметку</para>
+
+<para>3.Изменить заметку</para>
+
+<para>4.Просмотреть заметку</para>
+
+<para>5.Объединить заметки</para>
+</section>
+<section xml:id="_md__specification_1autotoc_md4">
+<title>Книга</title>
+
+<para>1.Добавить книгу</para>
+
+<para>2.Обновить книгу</para>
+
+<para>3.Изменить книгу</para>
+
+<para>4.Добавть заметку в книгу</para>
+
+<para>5.Удалить заметку из книги</para>
+
+<para>6.Просмотреть все заметки в книге</para>
+</section>
+<section xml:id="_md__specification_1autotoc_md5">
+<title>Поиск</title>
+
+<para>1.Найти книгу</para>
+
+<para>2.Найти заметку </para>
+</section>
+</section>
